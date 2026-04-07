@@ -11,9 +11,9 @@ icon: lucide/hammer
     - [x] ANTI ENTROPY THERMO-NULLIFIER, COOLING LOOP
     - [x] CARBON SKIMMER AUTOMATION
     - [x] DECONTAMINATING GERMY WATER, CHLORINE-BASED
-    - [ ] HYDROGEN VENT TAMING
-    - [ ] LIQUID LOCK
-    - [ ] LIQUID HYDROGEN & OXYGEN, SMALL
+    - [x] HYDROGEN VENT TAMING
+    - [x] LIQUID LOCK
+    - [x] LIQUID HYDROGEN & OXYGEN, SMALL
     - [ ] METAL REFINERY + THERMO AQUATUNER AND STEAM TURBINE COOLING LOOP
     - [ ] OIL WELL WITH LIQUID LOCK
     - [ ] SPOM, OXYGEN: 1KG/S
@@ -25,11 +25,21 @@ icon: lucide/hammer
 
 - [**Anti Entropy Thermo-Nullifier cooling**](thermo-nullifier.md)  
 **Source**: Francis John YouTube video
+
 - [**Carbon Skimmer automation**](carbon-skimmer.md)  
 **Source**: Jahws guide on Steam
+
 - [**Decontaminating germy water**](germ-decontamination.md)  
 **Source**: Francis John YouTube video
 
+- [**Hydrogen vent taming**](hydrogen-vent.md)  
+**Source**: Mullematsch YouTube video
+
+- [**Liquid lock**](liquid-lock.md)  
+**Source**: various
+
+- [**Liquid hydrogen & oxygen**](liquid-hydrogen-oxygen.md)  
+**Source**: Francis John YouTube video
 
 
 

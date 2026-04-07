@@ -4,6 +4,7 @@ icon: lucide/library-big
 
 # Resources
 
+---
 
 ## :lucide-drill: Tools
 
@@ -19,6 +20,7 @@ Includes a bunch of useful calculators, including food, farming, heat and rocket
 ### [Blueprint Not Included](https://blueprintnotincluded.org/)
 A site for creating and sharing blueprints.
 
+---
 
 ## :lucide-messages-square: Social
 
@@ -31,12 +33,14 @@ Reddit's Oxygen Not Included subforum is a good place to talk about the game, se
 ### [Discord](https://discord.gg/EBncbX2)
 The Oxygen Not Included discord has announcements, information about game updates, discussions and more.
 
+---
 
 ## :lucide-book-open: Guides
 
 ### [Steam guides](https://steamcommunity.com/app/457140/guides/)
 There are lots of great guides on Steam, written by gamers and covering pretty much anything you might want to learn. A special mention goes to the [Compendium of Amazing Designs](https://steamcommunity.com/sharedfiles/filedetails/?id=2154398396) by Kharnath.
 
+---
 
 ## :fontawesome-brands-youtube: YouTube
 Various channels. Some also include tutorials.

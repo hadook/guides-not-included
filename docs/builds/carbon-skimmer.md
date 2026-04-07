@@ -5,7 +5,9 @@
 
 This design uses automation to only turn on the carbon skimmer when the following two condtions are met for five seconds: (1) there is carbon dioxide, and (2) the gas pressure is at least 750 grams.
 
-!!! info
+
+!!! abstract "Construction"
+
     **Atmo sensor**: above 750  
     **Gas element sensor**: carbon dioxide  
     **Filter gate**: 5 seconds

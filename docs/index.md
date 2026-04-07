@@ -14,6 +14,7 @@ Do your dupes keep simultaneously starving, suffocating and peeing themselves? H
   
 Were you actually looking for some other Oxygen Not Included resource or website? Check the **[resources]** section.
 
+---
 
 ## Disclaimer
 

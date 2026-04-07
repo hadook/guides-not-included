@@ -14,7 +14,10 @@ nav = [
     "builds/index.md",
     { "Thermo-Nullifier" = "builds/thermo-nullifier.md" },
     { "Carbon Skimmer" = "builds/carbon-skimmer.md" },
-    { "Germ Decontamination" = "builds/germ-decontamination.md" },
+    { "Germy Water" = "builds/germy-water.md" },
+    { "Hydrogen Vent" = "builds/hydrogen-vent.md" },
+    { "Liquid Lock" = "builds/liquid-lock.md" },
+    { "Liquid Hydrogen / Oxygen" = "builds/liquid-hydrogen-oxygen.md" },
   ] },
   { "Guides" = [
     "guides/index.md",
@@ -22,7 +25,7 @@ nav = [
   { "Resources" = "resources.md" },
   { "About" = "about.md" },
   { "License" = "license.md" },
-  { "Zensical" = "zensical.md" },
+  # { "Zensical" = "zensical.md" },
 ]
 
 [project.theme]
@@ -63,6 +66,7 @@ features = [
 [project.theme.icon]
 # logo = "lucide/book-open"
 repo = "fontawesome/brands/github"
+admonition = { abstract = "lucide/hammer" }
 
 # Palette toggle for automatic mode
 [[project.theme.palette]]
