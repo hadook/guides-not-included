@@ -45,7 +45,7 @@ There are lots of great guides on Steam, written by gamers and covering pretty m
 ## :fontawesome-brands-youtube: YouTube
 Various channels. Some also include tutorials.
 
-- [GCFungus](https://www.youtube.com/@GCFungus)
 - [Echo Ridge Gaming](https://www.youtube.com/@EchoRidgeGaming)
 - [Francis John](https://www.youtube.com/@FrancisJohnYT)
+- [GCFungus](https://www.youtube.com/@GCFungus)
 - [Magnet](https://www.youtube.com/@Magnet_MD)

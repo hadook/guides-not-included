@@ -1,18 +1,23 @@
 ---
 icon: lucide/house
+hide:
+    - title
 ---
 
-# Home
+# Guides Not Included
 
-## Guides Not Included
-
-> Keep calm and press the spacebar.
+> A site with builds and tutorial guides for Oxygen Not Included.
 
 Do you know what you want to build but can't remember what bits go where or what the sensor settings were supposed to be? Check the **[builds]** section.
   
 Do your dupes keep simultaneously starving, suffocating and peeing themselves? Have a look at the **[guides]** section.
   
 Were you actually looking for some other Oxygen Not Included resource or website? Check the **[resources]** section.
+
+![](img/oni-screen-panic.webp)
+///caption
+Keep calm and press the spacebar.
+/// 
 
 ---
 

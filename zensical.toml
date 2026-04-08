@@ -18,6 +18,10 @@ nav = [
     { "Hydrogen Vent" = "builds/hydrogen-vent.md" },
     { "Liquid Lock" = "builds/liquid-lock.md" },
     { "Liquid Hydrogen / Oxygen" = "builds/liquid-hydrogen-oxygen.md" },
+    { "Metal Refinery" = "builds/metal-refinery.md" },
+    { "Oil Well" = "builds/oil-well.md" },
+    { "SPOM Oxygen: 1kg/s" = "builds/spom-1kg.md" },
+    { "SPOM Oxygen: 3kg/s" = "builds/spom-3kg.md" },
   ] },
   { "Guides" = [
     "guides/index.md",
@@ -25,7 +29,6 @@ nav = [
   { "Resources" = "resources.md" },
   { "About" = "about.md" },
   { "License" = "license.md" },
-  # { "Zensical" = "zensical.md" },
 ]
 
 [project.theme]

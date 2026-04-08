@@ -4,24 +4,10 @@ icon: lucide/hammer
 
 # Builds
 
-???+ info "This page is a work in progress"
-
-    My plan is to make available all the builds previously hosted at [guidesnotincluded.com][original-site]:
-
-    - [x] ANTI ENTROPY THERMO-NULLIFIER, COOLING LOOP
-    - [x] CARBON SKIMMER AUTOMATION
-    - [x] DECONTAMINATING GERMY WATER, CHLORINE-BASED
-    - [x] HYDROGEN VENT TAMING
-    - [x] LIQUID LOCK
-    - [x] LIQUID HYDROGEN & OXYGEN, SMALL
-    - [ ] METAL REFINERY + THERMO AQUATUNER AND STEAM TURBINE COOLING LOOP
-    - [ ] OIL WELL WITH LIQUID LOCK
-    - [ ] SPOM, OXYGEN: 1KG/S
-    - [ ] SPOM, OXYGEN: 3KG/S (THE FULL RODRIGUEZ)
-
 !!! note
     
     That's right. The author has watched a lot of Francis John.
+
 
 - [**Anti Entropy Thermo-Nullifier cooling**](thermo-nullifier.md)  
 **Source**: Francis John YouTube video
@@ -41,6 +27,17 @@ icon: lucide/hammer
 - [**Liquid hydrogen & oxygen**](liquid-hydrogen-oxygen.md)  
 **Source**: Francis John YouTube video
 
+- [**Metal Refinery with Thermo Aquatuner & Steam Turbine cooling**](metal-refinery.md)  
+**Source**: Francis John YouTube video
+
+- [**Oil Well with liquid lock**](oil-well.md)  
+**Source**: Francis John YouTube video
+
+- [**SPOM, Oxygen: 1kg/s**](spom-1kg.md)  
+**Source**: Francis John YouTube Video
+
+- [**SPOM, Oxygen: 3kg/s (Full Rodriguez)**](spom-3kg.md)  
+**Source**: Francis John YouTube Video
 
 
 [original-site]: https://guidesnotincluded.com/ "Sadly, it's no longer available."
