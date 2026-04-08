@@ -30,13 +30,13 @@ This design combines several things. A metal refinery and cooling system for its
 
 ## Visualization
 
-![](/builds/img/metal-refinery.avif)
+![](img/metal-refinery.avif)
 
-![](/builds/img/metal-refinery-liquid.avif)
+![](img/metal-refinery-liquid.avif)
 
-![](/builds/img/metal-refinery-automation.avif)
+![](img/metal-refinery-automation.avif)
 
-![](/builds/img/metal-refinery-power.avif)
+![](img/metal-refinery-power.avif)
 
 
 ## Credit

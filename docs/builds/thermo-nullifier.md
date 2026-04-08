@@ -26,11 +26,11 @@ This design uses a conductive door controlled by a thermo sensor to keep a body 
 
 ## Visualization
 
-![](/builds/img/thermo-nullifier.avif)
+![](img/thermo-nullifier.avif)
 
-![](/builds/img/thermo-nullifier-gas.avif)
+![](img/thermo-nullifier-gas.avif)
 
-![](/builds/img/thermo-nullifier-automation.avif)
+![](img/thermo-nullifier-automation.avif)
 
 
 ## Credit

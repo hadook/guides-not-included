@@ -18,4 +18,4 @@ There are many ways to design a liquid lock. This is a common, simple one that i
 
 ## Visualization
 ​
-![](/builds/img/liquid-lock.png)
+![](img/liquid-lock.png)

@@ -28,7 +28,7 @@ nav = [
   ] },
   { "Resources" = "resources.md" },
   { "About" = "about.md" },
-  { "License" = "license.md" },
+  { "License" = "site-license.md" },
 ]
 
 [project.theme]

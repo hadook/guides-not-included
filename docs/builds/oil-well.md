@@ -15,7 +15,7 @@ The oil (and natural gas) surrounding the oil well helps keep it cool, and minim
 
 ## Visualization
 
-![](/builds/img/oil-well.png)
+![](img/oil-well.png)
 
 
 ## Credit

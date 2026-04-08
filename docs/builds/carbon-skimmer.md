@@ -17,9 +17,9 @@ This design uses automation to only turn on the carbon skimmer when the followin
 
 ## Visualization
 ​
-![](/builds/img/carbon-skimmer.avif)
+![](img/carbon-skimmer.avif)
 
-![](/builds/img/carbon-skimmer-automation.avif)
+![](img/carbon-skimmer-automation.avif)
 
 
 ## Credit
