@@ -21,18 +21,18 @@ This SPOM is the so-called "Full Rodriguez". It generates 2.975 kg/second of oxy
 
 ## Visualization
 
-![](/builds/img/spom-3kg.avif)
+![](img/spom-3kg.avif)
 
-![](/builds/img/spom-3kg-gas.avif)
+![](img/spom-3kg-gas.avif)
 
 !!! note "Oops"
     I forgot the automation wire from the upper gas pump to the atmo sensor on its right.
     
-![](/builds/img/spom-3kg-automation.avif)
+![](img/spom-3kg-automation.avif)
 
-![](/builds/img/spom-3kg-power.avif)
+![](img/spom-3kg-power.avif)
 
-![](/builds/img/spom-3kg-liquid.avif)
+![](img/spom-3kg-liquid.avif)
 
 
 ## Credit

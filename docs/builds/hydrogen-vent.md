@@ -22,15 +22,15 @@ This design pumps out 130-140 degree hydrogen. Even if started in a vacuum, it w
 
 ## Visualization
 ​
-![](/builds/img/hydrogen-vent.avif)
+![](img/hydrogen-vent.avif)
 
-![](/builds/img/hydrogen-vent-automation.avif)
+![](img/hydrogen-vent-automation.avif)
 
-![](/builds/img/hydrogen-vent-liquid.avif)
+![](img/hydrogen-vent-liquid.avif)
 
-![](/builds/img/hydrogen-vent-power.avif)
+![](img/hydrogen-vent-power.avif)
 
-![](/builds/img/hydrogen-vent-gas.avif)
+![](img/hydrogen-vent-gas.avif)
 
 
 ## Credit

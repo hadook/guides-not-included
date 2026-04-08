@@ -22,13 +22,13 @@ This is Francis John's take on the classic SPOM, modified to fit in a four-tile 
 
 ## Visualization
 
-![](/builds/img/spom-1kg.avif)
+![](img/spom-1kg.avif)
 
-![](/builds/img/spom-1kg-gas.avif)
+![](img/spom-1kg-gas.avif)
 
-![](/builds/img/spom-1kg-automation.avif)
+![](img/spom-1kg-automation.avif)
 
-![](/builds/img/spom-1kg-power.avif)
+![](img/spom-1kg-power.avif)
 
 
 

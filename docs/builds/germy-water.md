@@ -24,11 +24,11 @@
 
 ## Visualization
 ​
-![](/builds/img/germy-water.avif)
+![](img/germy-water.avif)
 
-![](/builds/img/germy-water-liquid.avif)
+![](img/germy-water-liquid.avif)
 
-![](/builds/img/germy-water-automation.avif)
+![](img/germy-water-automation.avif)
 
 
 

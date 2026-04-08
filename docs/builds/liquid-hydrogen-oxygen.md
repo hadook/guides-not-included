@@ -40,15 +40,15 @@
 
 ## Visualization
 ​
-![](/builds/img/liquid-ho.avif)
+![](img/liquid-ho.avif)
 
-![](/builds/img/liquid-ho-liquid.avif)
+![](img/liquid-ho-liquid.avif)
 
-![](/builds/img/liquid-ho-automation.avif)
+![](img/liquid-ho-automation.avif)
 
-![](/builds/img/liquid-ho-gas.avif)
+![](img/liquid-ho-gas.avif)
 
-![](/builds/img/liquid-ho-power.avif)
+![](img/liquid-ho-power.avif)
 
 
 ## Credit
