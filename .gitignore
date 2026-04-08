@@ -1,0 +1,8 @@
+# python
+.cache/
+.venv/
+__pycache__/
+
+# zensical
+site/
+

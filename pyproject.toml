@@ -1,0 +1,12 @@
+[project]
+name = "guides-not-included"
+version = "0.1.0"
+description = "A popular website with guides for Oxygen Not Included revived from the depths of web archive."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "zensical>=0.0.31",
+]
